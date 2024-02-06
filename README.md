@@ -33,7 +33,6 @@ I am going to try hard and do my best for my goals.
 - Watching dramas and movies
 - Listening to music
 - Traveling
-- Staying at home
 
 ⚡ Inspirational Quote
 -------------------
@@ -41,3 +40,6 @@ I am going to try hard and do my best for my goals.
 > _(Isaiah 43:19)_
 
 ![IMG_0978](https://github.com/EstherOVO/EstherOVO/assets/159098602/f900309c-14dc-4e5a-9c3d-10a64ec0525f)
+
+⚡ Portfolio
+----------
