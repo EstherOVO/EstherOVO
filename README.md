@@ -14,8 +14,7 @@ Welcome! I'm (aspiring) developer from Korea :kr:
 :raising_hand: INTRODUCTION
 ------------
 * Name : Esther Jung
-* Age  : 25
-* Nowadays... I am interested in
+* Nowadays... I'm interested in
   - :one: Programming :star2:
   - :two: Googling
   - :three: Listening to music
