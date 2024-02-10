@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello,%20World!-nl-%20Yes,%20I%20am%20Esther!&fontSize=55&color=random,100:b678c4&stroke=b678c4&fontAlign=25)
 
 Welcome! I'm (aspiring) developer from Korea :kr:
+------------
 
 :computer: WITH
 ------------
@@ -12,51 +13,37 @@ Welcome! I'm (aspiring) developer from Korea :kr:
 
 :raising_hand: INTRODUCTION
 ------------
-* NAME : Esther Jung
-* AGE  : 25
-* NOWADAYS... I AM INTERESTED IN
-  - :one: PROGRAMMING :star2:
-  - :two: WATCHING DRAMA
-  - :three: LISTENING TO MUSIC
-  - 
+* Name : Esther Jung
+* Age  : 25
+* Nowadays... I am interested in
+  - :one: Programming :star2:
+  - :two: Googling
+  - :three: Listening to music
+  - :four: Traveling
+* I'm a taking class that about Big Data and creating Android application.<br/>I want to become a skilled developer.<br/>I will work hard and do my best to achieve my goals. 
 
-Hello, I am Esther Jung. 
-I am 25 years old. ~~Korean age is 27. Haha.~~
-My major is International Studies, and I have studied about Financial Engineering.
-I used to live in Gim-hae before, I recently moved to Busan for a class.
-The class is that about Big Data and creating Android application.
-Therefore, I have passion for JAVA and Kotlin.
-
-I am going to try hard and do my best for my goals.   
-
-⚡ My Goals
+:soccer: My Goals
 --------
-1. Become familiar with Java
-2. Update my profiles on GitHub > Success!
-3. Complete the class
-4. Read books about Code
+1. Become familiar with Java and Kotlin :lock:
+2. Update my profile on GitHub > Success! :key: :unlock:
+3. Complete the class :lock:
+4. Read books about Programming :lock:
 
-⚡ Skills
+:zap: Skills
 ------
-- Programming - Java
-- Proficiently managing and executing administrative tasks.
+- Programming
+- Managing and executing administrative tasks
 - Strong proficiency in MS Office Suite(PPT, Excel, Word…)
 - Customer Service
 - Teamwork
 - Communication
 
-⚡ What I like
------------
-- Watching dramas and movies
-- Listening to music
-- Traveling
-
-⚡ Inspirational Quote
+:green_heart: Inspirational Quote
 -------------------
 > See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland. <!-- -->
 > _(Isaiah 43:19)_
 
 ![IMG_0978](https://github.com/EstherOVO/EstherOVO/assets/159098602/f900309c-14dc-4e5a-9c3d-10a64ec0525f)
 
-⚡ Portfolio
+:movie_camera: Portfolio
 ----------
