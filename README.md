@@ -32,15 +32,14 @@ Welcome! I'm (aspiring) developer from Korea :kr:
 ------
 - Programming
 - Managing and executing administrative tasks
-- Strong proficiency in MS Office Suite(PPT, Excel, Word…)
+- Strong proficiency in MS Office Suite(PPT / Excel / Word)
 - Customer Service
 - Teamwork
 - Communication
 
 :green_heart: Inspirational Quote
 -------------------
-> See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland. <!-- -->
-> _(Isaiah 43:19)_
+> See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland.<br/>_(Isaiah 43:19)_
 
 ![IMG_0978](https://github.com/EstherOVO/EstherOVO/assets/159098602/f900309c-14dc-4e5a-9c3d-10a64ec0525f)
 
