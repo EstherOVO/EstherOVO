@@ -21,14 +21,14 @@ Welcome! I'm (aspiring) developer from Korea :kr:
   - :four: Traveling
 * I'm a taking class that about Big Data and creating Android application.<br/>I want to become a skilled developer.<br/>I will work hard and do my best to achieve my goals. 
 
-:soccer: My Goals
+:computer: My Goals
 --------
 1. Become familiar with Java and Kotlin :lock:
 2. Update my profile on GitHub > Success! :key: :unlock:
 3. Complete the class :lock:
 4. Read books about Programming :lock:
 
-:zap: Skills
+:computer: Skills
 ------
 - Programming
 - Managing and executing administrative tasks
