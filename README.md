@@ -25,7 +25,7 @@ Welcome! I'm developer from Korea :kr:
   - :two: Googling
   - :three: Listening to music
   - :four: Traveling
-* I'm a taking class that about Big Data and creating Android application.<br/>I want to become a skilled developer.<br/>I will work hard and do my best to achieve my goals. 
+* 
 
 :book: My Goals
 --------
