@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello,%20World!-nl-%20Yes,%20I%20am%20Esther!&fontSize=55&color=random,100:b678c4&stroke=b678c4&fontAlign=25)
+<!-- ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello,%20World!-nl-%20Yes,%20I%20am%20Esther!&fontSize=55&color=random,100:b678c4&stroke=b678c4&fontAlign=25) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=🌠%20YES%20I%20AM%20ESTHER!%20🌠&fontSize=60&fontAlignY=36&section=header&fontColor=FFFFFF&desc=HELLO%20WORLD%20:\))
 
-Welcome! I'm developer from Korea :kr:
+Welcome! I'm developer from Korea 🇰🇷
 ------------
 
 :computer: WITH
@@ -29,10 +30,10 @@ Welcome! I'm developer from Korea :kr:
 
 :book: My Goals
 --------
-1. Become familiar with Java and Kotlin :lock:
+1. Become familiar with Java and Kotlin :running_woman:
 2. Update my profile on GitHub > Success! :key: :unlock:
 3. Complete the class :lock:
-4. Read books about Programming :lock:
+4. Read books about Programming :running_woman:
 
 :bar_chart: Skills
 ------
