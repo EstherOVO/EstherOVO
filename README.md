@@ -17,6 +17,7 @@ Welcome! I'm developer from Korea 🇰🇷
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
 :raising_hand: Introduction
 ------------
@@ -50,5 +51,6 @@ Welcome! I'm developer from Korea 🇰🇷
 
 ![IMG_0978](https://github.com/EstherOVO/EstherOVO/assets/159098602/f900309c-14dc-4e5a-9c3d-10a64ec0525f)
 
-:movie_camera: Portfolio
+:movie_camera: Project
 ----------
+### [🚊 Busan Subway Project](https://github.com/EstherOVO/BusanSubwayProject)
