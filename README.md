@@ -9,9 +9,9 @@ Welcome! I'm developer from Korea 🇰🇷
 <div align=l>
   <img src="https://img.shields.io/badge/java-FF0000?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white"> -->
   <br/>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -24,24 +24,23 @@ Welcome! I'm developer from Korea 🇰🇷
 * Name : Esther Jung
 * Nowadays... I'm interested in
   - :one: Programming :star2:
-  - :two: Googling
+  - :two: Reading Books
   - :three: Listening to music
-  - :four: Traveling
+  - :four: Learning
 * 
 
 :book: My Goals
 --------
-1. Become familiar with Java and Kotlin :running_woman:
+1. Do my best to become a better developer :running_woman:
 2. Update my profile on GitHub > Success! :key: :unlock:
-3. Complete the class > Success! :key: :unlock:
-4. Read books about Programming :running_woman:
+3. Complete the course > Success! :key: :unlock:
+4. Study... :running_woman:
 
 :bar_chart: Skills
 ------
 - Programming
 - Managing and executing administrative tasks
 - Strong proficiency in MS Office Suite(PPT / Excel / Word)
-- Customer Service
 - Teamwork
 - Communication
 
